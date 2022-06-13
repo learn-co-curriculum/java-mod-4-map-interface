@@ -14,7 +14,7 @@ be unique but the values can be the same for different keys.
 The `Map` interface defines the methods to work with maps. The `K` represents
 the type of key and `V` represents the type of associated values.
 
-![Untitled](Map%20Interface%202321b46f33444645b881f98516d391b2/Untitled.png)
+![Map interface diagram](https://curriculum-content.s3.amazonaws.com/java-mod-4/Map-Interface-Diagram.png)
 
 ## Map Interface Methods
 
